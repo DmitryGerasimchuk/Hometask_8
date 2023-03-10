@@ -66,7 +66,7 @@ while (temp <= myArray.GetLength(0) * myArray.GetLength(1))
 }
 
 System.Console.WriteLine(); // Пустая строка для красоты вывода
-System.Console.WriteLine("Двадратный массив, заполненный спирально числами будет выглядить:");
+System.Console.WriteLine("Квадратный массив, заполненный спирально числами будет выглядить:");
 System.Console.WriteLine(); // Пустая строка для красоты вывода
 
 PrintArray(myArray);
